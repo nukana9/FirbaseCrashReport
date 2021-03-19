@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665445951514",
+    "project_id": "fir-crashreport-f0702",
+    "storage_bucket": "fir-crashreport-f0702.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665445951514:android:11968c71a1c70dba7849a3",
+        "android_client_info": {
+          "package_name": "com.sb.firbasecrashreport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665445951514-88kc4m39kho6gsogmaoqimtled91l7ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm-nfVBBJc5VKGJMNOLskMybCtYPh8jQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665445951514-88kc4m39kho6gsogmaoqimtled91l7ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
